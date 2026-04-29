@@ -62,7 +62,7 @@ Cada PDF incluye:
 - Footer con información del negocio
 
 ```
-[DEMO_PDF_PLACEHOLDER — screenshot de ejemplo]
+<img width="770" height="652" alt="image" src="https://github.com/user-attachments/assets/67a93e95-a17b-4791-8253-02b82a5ea300" />
 Caption: Demo PDF — Factura de Papelería La Esquina
 ```
 
@@ -74,7 +74,8 @@ Cuatro hojas:
 4. **Por categoría** — desglose por categoría de producto
 
 ```
-[DEMO_EXCEL_PLACEHOLDER — screenshot de ejemplo]
+<img width="805" height="933" alt="image" src="https://github.com/user-attachments/assets/74a45662-b7c0-4bd0-917c-8746f3c382a4" />
+
 Caption: Demo Excel — Resumen de ventas abril 2026
 ```
 
