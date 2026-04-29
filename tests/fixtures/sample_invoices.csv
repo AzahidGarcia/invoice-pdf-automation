@@ -1,0 +1,3 @@
+invoice_id,client_name,client_rfc,issue_date,due_date,items,category
+TEST-FAC-001,Cliente Test Uno,XAXX010101001,2026-04-01,2026-04-15,"Cuaderno profesional|3|85.00;;Plumas azul|10|12.50",Papeleria
+TEST-FAC-002,Cliente Test Dos,XAXX010101002,2026-04-05,2026-04-19,"Carpeta archivadora|5|95.00",Suministros

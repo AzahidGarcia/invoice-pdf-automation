@@ -1,0 +1,21 @@
+invoice_id,client_name,client_rfc,issue_date,due_date,items,category
+FAC-001,Cliente 001,XAXX010101001,2026-04-01,2026-04-15,"Cuaderno profesional|3|85.00;;Plumas azul|10|12.50",Papeleria
+FAC-002,Distribuidora ABC,XAXX010101002,2026-04-02,2026-04-16,"Resmas de papel carta|5|280.00;;Folder manila|20|8.00",Papeleria
+FAC-003,Servicios Integrales SA,XAXX010101003,2026-04-03,2026-04-17,"Calculadora cientifica|2|450.00;;Cinta adhesiva|6|25.00",Electronica
+FAC-004,Cliente 004,XAXX010101004,2026-04-05,2026-04-19,"Pegamento barra|12|18.00;;Tijeras office|5|35.00",Papeleria
+FAC-005,Mayorista Norte,XAXX010101005,2026-04-06,2026-04-20,"Bolsas de plastico|100|2.50",Suministros
+FAC-006,Cliente 006,XAXX010101006,2026-04-08,2026-04-22,"Marcadores colores|8|45.00;;Libreta notas|6|55.00",Papeleria
+FAC-007,Despacho Ramirez,XAXX010101007,2026-04-10,2026-04-24,"Impresora termica|1|1250.00",Electronica
+FAC-008,Cliente 008,XAXX010101008,2026-04-11,2026-04-25,"Rollos de tickets|20|35.00",Suministros
+FAC-009,Distribuidora del Centro,XAXX010101009,2026-04-12,2026-04-26,"Sobres manila|50|5.00;;Sobres Manila|30|8.00",Papeleria
+FAC-010,Cliente 010,XAXX010101010,2026-04-14,2026-04-28,"Archivero plastico|4|150.00;;Cajas archivo|10|85.00",Suministros
+FAC-011,Servicios Mega,XAXX010101011,2026-04-15,2026-04-29,"Toners impresora|3|850.00",Electronica
+FAC-012,Cliente 012,XAXX010101012,2026-04-17,2026-04-30,"Grapas|5|22.00;;Perforadora|2|120.00",Papeleria
+FAC-013,Comercial del Pacifico,XAXX010101013,2026-04-18,2026-05-02,"Lapices HB|24|8.00;;Borradores|12|10.00",Papeleria
+FAC-014,Cliente 014,XAXX010101014,2026-04-20,2026-05-04,"Carpetes personalizados|10|180.00",Suministros
+FAC-015,Proveedora del Norte,XAXX010101015,2026-04-22,2026-05-06,"USB 16GB|8|125.00;;Mouse wireless|5|180.00",Electronica
+FAC-016,Cliente 016,XAXX010101016,2026-04-23,2026-05-07,"Flexyclear sheets|3|320.00;;Pocket folders|20|15.00",Papeleria
+FAC-017,Grupo Industrial MX,XAXX010101017,2026-04-24,2026-05-08,"Guantes latex|100|45.00;;Cartones|50|120.00",Suministros
+FAC-018,Cliente 018,XAXX010101018,2026-04-25,2026-05-09,"Regla 30cm|6|25.00;;Escuadra|4|30.00",Papeleria
+FAC-019,Distribuidora Occidental,XAXX010101019,2026-04-27,2026-05-11,"Tablets|2|2500.00",Electronica
+FAC-020,Cliente 020,XAXX010101020,2026-04-28,2026-05-12,"Clips jumbo|10|15.00;;Binder clips|8|20.00",Papeleria
